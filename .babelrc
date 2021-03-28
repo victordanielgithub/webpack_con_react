@@ -1,0 +1,6 @@
+{
+	"presets": [
+		"@babel/preset-env", // reconoce ecmascript 6...
+		"@babel/preset-react" // reconoce react
+	]
+}
